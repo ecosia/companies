@@ -6,8 +6,8 @@
       "logo_light": "telekom_light.svg",
       "logo_dark": "telekom_dark.svg",
       "last_updated": "2024-05-15T11:40:00.000000Z",
-      "baseline": "93003",
-      "seconds_per_tree": "1020"
+      "baseline": 93003.0,
+      "seconds_per_tree": 1020.0
     }
   ]
 }
