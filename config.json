@@ -6,8 +6,44 @@
       "logo_light": "telekom_light.svg",
       "logo_dark": "telekom_dark.svg",
       "last_updated": "2024-05-15T11:40:00.000000Z",
-      "baseline": 93003.0,
+      "baseline": 93003,
       "seconds_per_tree": 1020.0
-    }
+    },
+    {
+        "name": "SAP",
+        "typetag": "a49b1df3",
+        "logo_light": "sap.svg",
+        "logo_dark": "sap.svg",
+        "last_updated": "2024-05-15T11:40:00.000000Z",
+        "baseline": 379290,
+        "seconds_per_tree": 108.0
+      },
+      {
+        "name": "EON",
+        "typetag": "4f9494e4",
+        "logo_light": "eon.svg",
+        "logo_dark": "eon.svg",
+        "last_updated": "2024-05-15T11:40:00.000000Z",
+        "baseline": 167348,
+        "seconds_per_tree": 250.0
+      },
+      {
+        "name": "DHL",
+        "typetag": "307183f7",
+        "logo_light": "dhl.svg",
+        "logo_dark": "dhl.svg",
+        "last_updated": "2024-05-15T11:40:00.000000Z",
+        "baseline": 728415,
+        "seconds_per_tree": 120.0
+      },
+      {
+        "name": "TalkTalk",
+        "typetag": "ba7605a0",
+        "logo_light": "talktalk.svg",
+        "logo_dark": "talktalk.svg",
+        "last_updated": "2024-05-15T11:40:00.000000Z",
+        "baseline": 13231,
+        "seconds_per_tree": 3840.0
+      }
   ]
 }
